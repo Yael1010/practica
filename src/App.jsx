@@ -20,7 +20,12 @@ function App() {
           }}
         >
           Cambiar estado
-        </button>      
+        </button>  
+        <button
+          onClick={() => {
+            alert("cuidado")
+          }}alerta</button>
+      <button texto={"ayuda"}></button>
       </div>
     </>
   );
