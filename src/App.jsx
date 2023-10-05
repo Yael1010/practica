@@ -21,14 +21,14 @@ function App() {
         >
           Cambiar estado
         </button>  
-        <div>
-        <button
-          onClick={() => {
-            alert("cuidado")
-          }}alerta</button>
+    <div>
+      <button
+        onClick={() => {
+          alert("cuidado")
+        }}alerta</button>
       <button texto={"ayuda"}></button>
-      </div>
-      </div>
+    </div>
+    </div>
     </>
   );
 }
